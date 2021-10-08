@@ -69,18 +69,19 @@ $false
 	ㅑ
 
 # File marks:
-'0  2  0  ~/.gitignore
-'1  9  15  ~/edu4/edu4_1.sh
-'2  7  1  ~/edu4/edu4_1.sh
-'3  8  1  ~/edu4/edu4.sh
-'4  14  49  ~/edu4/edu4.sh
-'5  25  31  ~/edu4/args.sh
-'6  19  10  ~/edu4/args.sh
-'7  27  10  ~/edu4/args.sh
-'8  23  3  ~/edu4/args.sh
-'9  18  81  ~/edu4/edu4_1.sh
+'0  7  7  ~/.gitignore
+'1  2  0  ~/.gitignore
+'2  9  15  ~/edu4/edu4_1.sh
+'3  7  1  ~/edu4/edu4_1.sh
+'4  8  1  ~/edu4/edu4.sh
+'5  14  49  ~/edu4/edu4.sh
+'6  25  31  ~/edu4/args.sh
+'7  19  10  ~/edu4/args.sh
+'8  27  10  ~/edu4/args.sh
+'9  23  3  ~/edu4/args.sh
 
 # Jumplist (newest first):
+-'  7  7  ~/.gitignore
 -'  2  0  ~/.gitignore
 -'  9  15  ~/edu4/edu4_1.sh
 -'  7  0  ~/edu4/edu4_1.sh
@@ -182,10 +183,11 @@ $false
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	2	0
-	^	2	6
-	.	2	5
-	+	2	5
+	"	7	7
+	^	7	8
+	.	8	0
+	+	2	6
+	+	8	0
 
 > ~/edu4/edu4_1.sh
 	"	9	15
