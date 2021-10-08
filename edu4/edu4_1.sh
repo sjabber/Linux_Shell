@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [ $# -eq 0 ]
+then
+ echo "warning : no argument"
+ exit 0
+fi
+
 length_1=$(expr length $1)
 
 #if [ 4 -gt $length_1 ]; then
