@@ -1,0 +1,9 @@
+[Unit]
+Description=Auto restart Daemon
+After=network.target
+
+[Service]
+ExecStart=/home/azureuser/edu3/while1.sh
+WorkingDirectory=~/test
+User=root
+Group=root
